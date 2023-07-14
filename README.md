@@ -63,5 +63,3 @@ Identification of the top 10 maximum and minimum rated products
 c. Average rating analysis:
 Calculation of average ratings by location, seller, product, category, and month
 The above tasks were implemented using SQL to analyze the provided dataset. The queries used to perform the analysis are included in this repository, along with the dataset used. The results of the analysis can be found in the respective SQL files.
-
-Please note that the data analysis tasks were performed in SQL, and this repository includes only the SQL queries and results. The dataset used for the analysis is not provided here.
